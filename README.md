@@ -19,4 +19,3 @@ A játékaimat és asset csomagjaimat itt találod: [davnetics.itch.io](https://
 ![Cisco](https://img.shields.io/badge/Cisco-049BCC?style=for-the-badge&logo=cisco&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Bot-red?style=for-the-badge&logo=openai&logoColor=white)
 
-
