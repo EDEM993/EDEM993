@@ -1,3 +1,5 @@
+👋 Szia! Dávid vagyok, Programtervező Informatikus hallgató.
+
 Szenvedélyem a játékfejlesztés és a kreatív asset-alkotás, de a stabil hálózati alapok sem hiányoznak a repertoáromból. Rendszer- és alkalmazásüzemeltető technikusként végeztem (Szakma Kiválója elismeréssel), így a projektjeimnél a kód minősége mellett az infrastruktúrára is figyelek.
 
 Jelenleg főként C# és Unity segítségével építek világokat, de kísérletezem AI megoldásokkal és C++/Python alapú fejlesztésekkel is. Ha épp nem kódot írok, akkor valószínűleg hálózati topológiákat tervezek vagy game asseteket finomítok.
